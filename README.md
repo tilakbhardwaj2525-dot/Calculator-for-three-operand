@@ -41,5 +41,4 @@ elif c=="-" and d=="-":
     print("your answer is",(a-b)-e)
 
 else:
-    print("please enter +, -, * or /")# Calculator-for-three-operand
-This calculator is made by using python language . In this , we calculate three operand.
+    print("please enter +, -, * or /")
